@@ -4,3 +4,4 @@ git add
 git commit
 bb
 git rm
+git statusß
